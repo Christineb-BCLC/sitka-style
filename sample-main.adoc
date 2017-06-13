@@ -1,4 +1,0 @@
-= Thingie
-Author
-
-include::sample.adoc[]
