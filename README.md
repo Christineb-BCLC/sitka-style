@@ -1,2 +1,2 @@
-# asciidoc-test
-Test repo for asciidoc stuff.
+# sitka-style
+Test repo for the Sitka style guide.
