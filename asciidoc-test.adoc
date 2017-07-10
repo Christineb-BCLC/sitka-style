@@ -1,4 +1,0 @@
-= Thingie
-Author
-
-include::asciidoc-test-main.adoc[]

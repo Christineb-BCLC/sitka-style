@@ -1,0 +1,4 @@
+= Thingie
+Author
+
+include::sitka-style-main.adoc[]
